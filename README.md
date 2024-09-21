@@ -1,3 +1,6 @@
+Live demo on Vercel:   https://number-guessing-game-30-days-of-30-projects-tgws.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
